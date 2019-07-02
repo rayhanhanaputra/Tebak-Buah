@@ -1,1 +1,1 @@
-# [Dicoding] Tebak Buah The Game
+# Tebak Buah The Game
